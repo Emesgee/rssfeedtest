@@ -3,11 +3,13 @@
     <channel>
         <item>
         
-        </item>
+        
         <Object Type="System.Management.Automation.PSCustomObject"></Object>
         <Property Name="Route ID" Type="System.String">Aframax-TCE</Property> 
         <Property Name="Price" Type="System.Decimal">58175,00</Property> 
         <Property Name="Unit" Type="System.String">$/day</Property> 
-    </channel>
+        
+        </item>
+        </channel>
         </rss>
 
