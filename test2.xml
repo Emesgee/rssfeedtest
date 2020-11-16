@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>Baltic Spot Rates</title>
+<link>https://norden.com</link>
+<description>Baltic Spot Rates</description>
+<item>
+<title>Aframax-TCE</title>
+<description>58175.00 $/day</description>
+</item>
+<item>
+<title>HS1_38</title>
+<description>8050.00 $/day</description>
+</item>
+<item>
+<title>HS2_38</title>
+<description>8293.00 $/day</description>
+</item>
+<item>
+<title>HS3_38</title>
+<description>10956.00 $/day</description>
+</item>
+<item>
+<title>HS4_38</title>
+<description>9694.00 $/day</description>
+</item>
+<item>
+<title>HS5_38</title>
+<description>6744.00 $/day</description>
+</item>
+<item>
+<title>HS6_38</title>
+<description>6175.00 $/day</description>
+</item>
+<item>
+<title>HS7_38</title>
+<description>5975.00 $/day</description>
+</item>
+<item>
+<title>MR Atlantic Basket</title>
+<description>26826.00 $/day</description>
+</item>
+<item>
+<title>MR Pacific Basket</title>
+<description>13410.00 $/day</description>
+</item>
+<item>
+<title>P1A_82</title>
+<description>8645.00 $/day</description>
+</item>
+<item>
+<title>P2A_82</title>
+<description>15545.00 $/day</description>
+</item>
+<item>
+<title>P3A_82</title>
+<description>5132.00 $/day</description>
+</item>
+<item>
+<title>P4_82</title>
+<description>2635.00 $/day</description>
+</item>
+<item>
+<title>P5_82</title>
+<description>4078.00 $/day</description>
+</item>
+<item>
+<title>P6_82</title>
+<description>7823.00 $/day</description>
+</item>
+<item>
+<title>S10_58</title>
+<description>3522.00 $/day</description>
+</item>
+<item>
+<title>S1B_58</title>
+<description>14350.00 $/day</description>
+</item>
+<item>
+<title>S1C_58</title>
+<description>20150.00 $/day</description>
+</item>
+<item>
+<title>S2_58</title>
+<description>4979.00 $/day</description>
+</item>
+<item>
+<title>S3_58</title>
+<description>2170.00 $/day</description>
+</item>
+<item>
+<title>S4A_58</title>
+<description>15188.00 $/day</description>
+</item>
+<item>
+<title>S4B_58</title>
+<description>5959.00 $/day</description>
+</item>
+<item>
+<title>S5_58</title>
+<description>11747.00 $/day</description>
+</item>
+<item>
+<title>S8_58</title>
+<description>3794.00 $/day</description>
+</item>
+<item>
+<title>S9_58</title>
+<description>5778.00 $/day</description>
+</item>
+<item>
+<title>Suezmax-TCE</title>
+<description>64523.00 $/day</description>
+</item>
+<item>
+<title>TC14</title>
+<description>135.71 Worldscale</description>
+</item>
+<item>
+<title>TC14-TCE</title>
+<description>9779.00 $/day</description>
+</item>
+<item>
+<title>TC2_37</title>
+<description>186.11 Worldscale</description>
+</item>
+<item>
+<title>TC2_37-TCE</title>
+<description>18834.00 $/day</description>
+</item>
+<item>
+<title>TC5</title>
+<description>150.33 Worldscale</description>
+</item>
+<item>
+<title>TC5-TCE</title>
+<description>16464.00 $/day</description>
+</item>
+<item>
+<title>TC6</title>
+<description>283.44 Worldscale</description>
+</item>
+<item>
+<title>TC6-TCE</title>
+<description>38317.00 $/day</description>
+</item>
+<item>
+<title>TC9</title>
+<description>205.71 Worldscale</description>
+</item>
+<item>
+<title>TC9-TCE</title>
+<description>20369.00 $/day</description>
+</item>
+<item>
+<title>VLCC-TCE</title>
+<description>73748.00 $/day</description>
+</item></channel>
+</rss>
