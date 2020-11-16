@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version ="2.0">
+    <channel>
     <Object Type="System.Management.Automation.PSCustomObject">
         <Property Name="Route ID" Type="System.String">Aframax-TCE</Property> 
         <Property Name="Price" Type="System.Decimal">58175,00</Property> 
         <Property Name="Unit" Type="System.String">$/day</Property> 
     </Object>
+    </channel>
         </rss>
 
