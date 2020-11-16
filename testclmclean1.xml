@@ -3,9 +3,9 @@
     <channel>
         
         <item>
-            <Property Name="Route ID" Type="System.String">Aframax-TCE</Property>
-                <Property Name="Price" Type="System.Decimal">58175,00</Property> 
-                <Property Name="Unit" Type="System.String">$/day</Property>
+            <title>Aframax-TCE</tilte>
+            <price>58175,00</price>
+            <unit>$/day</unit>
         </item>
         
         
